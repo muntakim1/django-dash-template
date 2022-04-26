@@ -1,0 +1,12 @@
+django
+django_plotly_dash
+dash_bootstrap_components
+dash_bio
+dash_daq
+django-bootstrap4
+dpd_static_support
+channels 
+daphne 
+redis 
+django-redis 
+channels-redis
